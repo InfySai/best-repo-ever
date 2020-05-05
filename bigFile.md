@@ -1,5 +1,6 @@
 # big file1
 #add a new line
+#add another line
 
 <<<<<<< HEAD
 #you see?
